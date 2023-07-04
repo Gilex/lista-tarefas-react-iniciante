@@ -1,2 +1,4 @@
 # lista-tarefas-react-iniciante
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://6x7lvl-3000.csb.app/)
+
